@@ -1,0 +1,1 @@
+document.getElementById("name").style.fontSize="42px";
